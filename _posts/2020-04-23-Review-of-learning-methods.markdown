@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review Of Learning M4ethods"
+title:  "Review Of Learning Methods"
 date:   2020-04-22 20:37:56 +0300
 categories: meta-learning
 ---
